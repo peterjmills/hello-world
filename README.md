@@ -1,4 +1,5 @@
 # hello-world
 getting to know the system
+and committing changes
 
-var author = 'Peter Mills'
+author = 'Peter Mills'
